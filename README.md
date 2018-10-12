@@ -9,6 +9,4 @@ A simple parsing script which takes unique ips from the "hosts.json" file output
 `chmod +x ./aquascan.sh`  
 `./aquascan.sh` 
 
-**Example Output:**  
-![Example](example.png)  
 
