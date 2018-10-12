@@ -5,8 +5,8 @@ A simple parsing script which takes unique ips from the "hosts.json" file output
 **Example usage(Standalone python script):**  
 `python parseip.py`  
 
-**Example usage(Bash Script):**
-`chmod +x ./aquamap.sh` 
+**Example usage(Bash Script):**  
+`chmod +x ./aquamap.sh`  
 `./aquamap.sh` 
 
 **Example Output:**  
